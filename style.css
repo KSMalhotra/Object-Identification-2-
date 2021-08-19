@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    border-radius: 25px;
+    border: 2px dashed brown;
+}
+
